@@ -1,4 +1,4 @@
-Self-selected topic for Sondre Hølleland
+Ways of speeding up your R
 ================
 
 *Contributors: Sondre Hølleland<sup>†</sup> University of Bergen,
