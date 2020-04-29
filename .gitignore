@@ -1,0 +1,6 @@
+*.pptx
+*.Rmd
+*.Rhistory
+*.dll
+*.o
+*.bat
