@@ -8,7 +8,7 @@ Norway.*
 
 This repository contains the code used in the self selected topic of
 Sondre Hølleland, during his phd education at the University of Bergen.
-Due to corona pandemic, the seminar was held digitally on zoom and
+Due to the corona pandemic, the seminar was held digitally on zoom and
 Sondre decided to record his seminar. You find the slides in the
 presentation folder and all the code used in the Code folder. The images
 of the presenation were downloaded primarily from
