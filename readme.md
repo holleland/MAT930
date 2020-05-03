@@ -35,34 +35,6 @@ relating to their computing server MI-LOKE. The different sections are
 6.  Parallel Computing example (6:17)
 7.  Conclusion (0:21)
 
-<video src="Video/1_Introduction.mp4" poster="Video/1_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/2_Rcpp.mp4" poster="Video/2_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/3_TMB.mp4" poster="Video/3_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/4_Parallel_computing_intro.mp4" poster="Video/4_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/5_UIB_MI-LOKE_usage.mp4" poster="Video/5_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/6_Parallell_computing_example.mp4" poster="Video/6_poster.png" width="320" height="200" controls preload>
-
-</video>
-
-<video src="Video/7_conclusion.mp4" poster="Video/7_poster.png" width="320" height="200" controls preload>
-
-</video>
-
 ## Author
 
 **Sondre Hølleland** - [holleland](https://github.com/holleland)
