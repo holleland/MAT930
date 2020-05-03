@@ -25,15 +25,19 @@ is made by an unkown artist.
 For your convenience, the seminar has been split up in different parts.
 Some parts are only relevant for the students and employees at the
 Mathematical Institute, University of Bergen. These are the parts
-relating to their computing server MI-LOKE. The different sections are
+relating to their computing server MI-LOKE.
 
-1.  Introduction (4:38)
-2.  C++ with R (15:02)
-3.  TMB for effecient maxmimum likelihood estimation (8:03)
-4.  Parallell Computing intro (3:32)
-5.  MI-LOKE – description and usage (5:17)
-6.  Parallel Computing example (6:17)
-7.  Conclusion (0:21)
+The videos are available on youtube through the following links.
+
+1.  [Introduction (4:38)](https://youtu.be/kTRwlkzVotM)
+2.  [C++ with R (15:02)](https://youtu.be/ct-vqNXI9AI)
+3.  [TMB for effecient maxmimum likelihood estimation
+    (8:03)](https://youtu.be/jpQp5evDezY)
+4.  [Parallell Computing intro (3:32)](https://youtu.be/8e403fkzPTU)
+5.  [MI-LOKE – description and usage
+    (5:17)](https://youtu.be/eFTybzGziR0)
+6.  [Parallel Computing example (6:17)](https://youtu.be/im1lmhaLGFQ)
+7.  [Conclusion (0:21)](https://youtu.be/4jXKMtbSvLA)
 
 ## Author
 
